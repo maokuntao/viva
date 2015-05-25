@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, 'Liberation Sans', Arial, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+	font-size: 13px;
+	color: #3e4855;
+}
+
+.bodyContent{
+	background: #CCC;
+	background-image: url("../imgs/background/1.jpg");
+	background-size: 1366px 1366px;
+}
+
+.jumbotron{
+	width: 78%;
+	height: 1000px;
+	margin: 0 auto 0;
+}
+
+.footContainer{
+	text-align: center;
+}

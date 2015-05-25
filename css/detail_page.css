@@ -38,7 +38,7 @@ img:hover{
 
 .bodyContent{
 	background-image: url("../imgs/background/6.JPG");
-	background-size: 1366px 1024px;
+	/*background-size: 1366px 1024px;*/
 }
 
 .jumbotron{

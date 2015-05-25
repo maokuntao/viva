@@ -10,7 +10,7 @@ body {
 .bodyContent{
 	background: #CCC;
 	background-image: url("../imgs/background/1.jpg");
-	background-size: 1366px 1366px;
+	/*background-size: 1366px 1366px;*/
 }
 
 .jumbotron{
